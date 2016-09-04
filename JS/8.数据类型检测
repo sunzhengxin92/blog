@@ -1,0 +1,4 @@
+1.typeof
+2.instanceof
+3.constructor
+4.Object.prototype.toString.call(obj)
